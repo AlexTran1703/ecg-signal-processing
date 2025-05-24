@@ -1,0 +1,269 @@
+https://ecgwaves.com/topic/introduction-electrocardiography-ecg-book/
+https://litfl.com/ecg-library/
+
+++++++Class Conduction Disturbance
+Conduction disturbances in an ECG (Electrocardiogram) refer to abnormalities in the heart’s electrical conduction system 
+that can lead to irregular or altered heart rhythms. The heart's electrical activity is responsible for controlling the contraction of 
+the heart muscle, and disturbances can occur at various levels of the conduction system.
+
+Here are some common types of conduction disturbances that can be observed on an ECG:
+1. Bundle Branch Block (BBB):
+
+    Right Bundle Branch Block (RBBB): A delay or block in the electrical impulses traveling to the right side of the heart, 
+    causing a delay in right ventricular contraction.
+
+    Left Bundle Branch Block (LBBB): A delay or block in the electrical impulses traveling to the left side of the heart, 
+    causing delayed contraction of the left ventricle.
+    
+    ECG Signs:
+
+    RBBB: Widened QRS complex (>120 ms), with an "RSR" pattern in V1 and a "slurred S" wave in lateral leads.
+
+    LBBB: Widened QRS complex (>120 ms), broad and notched R waves in I, aVL, V5, and V6.
+2. Heart Block:
+
+    First-Degree Heart Block: A delay in the conduction of electrical signals from the atria to the ventricles. 
+    The PR interval is prolonged (>200 ms).
+
+    Second-Degree Heart Block (Type I and Type II):
+
+        Type I (Wenckebach): Progressive lengthening of the PR interval until a beat is dropped (P wave without QRS).
+
+        Type II (Mobitz II): A fixed PR interval with some P waves not followed by a QRS complex.
+
+    Third-Degree Heart Block (Complete Block): No communication between the atria and ventricles. 
+    The atria and ventricles beat independently, causing a very slow ventricular rhythm (escape rhythm).
+
+    ECG Signs:
+
+    First-degree block: Prolonged PR interval (greater than 200 ms).
+
+    Second-degree block: Dropped beats in Type I and fixed P waves without corresponding QRS in Type II.
+
+    Third-degree block: P waves and QRS complexes are independent, and the rate of P waves is faster than that of the QRS complexes.
+
+3. Pre-excitation Syndromes (e.g., Wolff-Parkinson-White (WPW) Syndrome):
+
+    WPW Syndrome: A condition where an abnormal extra electrical pathway exists between the atria and ventricles (the accessory pathway). 
+    This causes a rapid heart rate due to early activation of the ventricles.
+
+ECG Signs:
+
+    Shortened PR interval (<120 ms).
+
+    Delta wave (slurred upstroke in the QRS complex) due to early depolarization of the ventricles via the accessory pathway.
+
+4. Long QT Syndrome:
+
+    A condition where the heart's electrical system takes longer than usual to recharge between beats, increasing 
+    the risk of arrhythmias and sudden cardiac death.
+
+ECG Signs:
+
+    Prolonged QT interval (greater than 440 ms in men, 460 ms in women).
+
+    Increased risk of arrhythmias like torsades de pointes (a type of life-threatening arrhythmia).
+
+5. Sinus Node Dysfunction (Sick Sinus Syndrome):
+
+    A dysfunction of the sinus node (the heart's natural pacemaker), which can result in bradycardia, tachycardia, 
+    or sinus arrest (pauses in the heart rhythm).
+
+ECG Signs:
+
+    Sinus pauses or arrest (absence of P waves for a brief period).
+
+    Alternating bradycardia (slow heart rate) and tachycardia (fast heart rate).
+
+6. Ectopic Pacemaker Activity:
+
+    Ectopic beats originate from locations other than the sinoatrial node and may lead to 
+    arrhythmias like premature atrial contractions (PACs) or premature ventricular contractions (PVCs).
+
+ECG Signs:
+
+    PAC: Premature P wave with a normal QRS complex.
+
+    PVC: Wide and bizarre QRS complex that occurs earlier than expected.
+
+Effect of Conduction Disturbances on ECG:
+
+    Heart rate: Conduction disturbances can slow down or accelerate the heart rate depending on the type of block or disturbance.
+
+    Rhythm: It may cause irregular rhythms such as bradycardia, tachycardia, or arrhythmias (irregular heartbeats).
+
+    P Wave and QRS complex: Conduction issues often affect the P wave (atrial contraction) and the QRS complex (ventricular contraction), leading to changes in their appearance, duration, and pattern.
+
+    PR Interval: Conduction disturbances often manifest as a prolonged or variable PR interval, especially in cases of heart block.
+
+Detection and Diagnosis on ECG:
+
+    Lead Placement: Proper placement of ECG leads is critical in detecting conduction disturbances.
+
+    QRS Complex Duration: A widened QRS complex (>120 ms) can indicate bundle branch blocks.
+
+    PR Interval: Prolonged PR intervals or irregular intervals may suggest heart block.
+
+    Delta Waves and Shortened PR Intervals: Indicative of WPW syndrome.
+
+    QT Interval: Prolonged QT intervals may indicate Long QT syndrome.
+
++++++Class Hypertrophy
+1. Left Ventricular Hypertrophy (LVH):
+https://litfl.com/left-ventricular-hypertrophy-lvh-ecg-library/
+Hypertrophy refers to an increase in muscle mass of the heart chambers. 
+In ECG, it primarily applies to the atria and ventricles, and each form has characteristic changes in the waveform.
+
+Types of Hypertrophy Detected on ECG:
+Types of Hypertrophy Detected on ECG:
+1. Left Ventricular Hypertrophy (LVH)
+ECG Criteria (examples):
+
+    Sokolow-Lyon Criteria:
+
+        S wave in V1 + R wave in V5 or V6 > 35 mm
+
+    Cornell Criteria:
+
+        R in aVL + S in V3 > 28 mm (men) or 20 mm (women)
+
+    Strain pattern:
+
+        Down-sloping ST depression and T wave inversion in lateral leads (I, aVL, V5, V6)
+
+Causes:
+
+    Hypertension
+
+    Aortic stenosis
+
+    Hypertrophic cardiomyopathy
+
+2. Right Ventricular Hypertrophy (RVH)
+ECG Criteria:
+
+    Right axis deviation (> +110°)
+
+    R wave in V1 > 7 mm or R/S ratio > 1 in V1
+
+    S wave in V5 or V6 > 7 mm
+
+    Strain pattern in right precordial leads (V1–V3)
+
+Causes:
+
+    Pulmonary hypertension
+
+    COPD
+
+    Pulmonary embolism
+
+    Congenital heart disease (e.g., Tetralogy of Fallot)
+
+3. Left Atrial Enlargement (LAE)
+ECG Criteria:
+
+    P mitrale: Wide, notched P wave in lead II (>120 ms)
+
+    Biphasic P wave in V1 with deep negative terminal portion
+
+Causes:
+
+    Mitral valve disease
+
+    Hypertension
+
+    LVH
+
+4. Right Atrial Enlargement (RAE)
+ECG Criteria:
+
+    P pulmonale: Tall, peaked P waves (>2.5 mm) in inferior leads (II, III, aVF)
+
+    Prominent initial component of biphasic P wave in V1
+
+Causes:
+
+    Pulmonary disease (cor pulmonale)
+
+    Tricuspid valve disease
+
+    Congenital heart disease
+
++++++
+
++++++Class ST/T change:
+ST and T wave changes in an ECG represent abnormalities in the repolarization phase of the heart's electrical cycle. 
+These changes often suggest myocardial ischemia, injury, electrolyte imbalance, or other cardiac pathology.
+1. ST Segment Changes
+ST Elevation
+
+    Definition: Elevation of the ST segment above the baseline (usually >1 mm in two contiguous leads).
+
+    Causes:
+
+        Acute myocardial infarction (STEMI)
+
+        Pericarditis
+
+        Early repolarization (benign variant, especially in young people)
+
+        Ventricular aneurysm (persistent ST elevation after infarction)
+
+        Brugada syndrome (in V1–V3 leads)
+
+ST Depression
+
+    Definition: Depression of the ST segment below baseline (usually >0.5 mm in two contiguous leads).
+
+    Causes:
+
+        Myocardial ischemia (subendocardial)
+
+        Posterior myocardial infarction
+
+        Digitalis effect (scooped ST depression)
+
+        Hypokalemia
+
+        Stress testing response
+
+2. T Wave Changes
+T Wave Inversion
+
+    Definition: T wave flips from positive to negative in leads where it is normally upright.
+
+    Causes:
+
+        Ischemia (especially in the early stages)
+
+        Post-infarction (evolving MI)
+
+        Bundle branch blocks
+
+        Ventricular hypertrophy with strain
+
+        Pulmonary embolism
+
+Tall T Waves
+
+    Definition: Abnormally high, peaked T waves.
+
+    Causes:
+
+        Hyperkalemia (most classic cause)
+
+        Early phase of myocardial infarction
+
+Flattened or Low-Amplitude T Waves
+
+    Causes:
+
+        Nonspecific finding
+
+        Hypokalemia
+
+        Ischemia
+
+        Pericardial effusion
+
