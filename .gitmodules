@@ -1,0 +1,6 @@
+[submodule "ecg-ptb-xl"]
+	path = ecg-ptb-xl
+	url = git@github.com:AlexTran1703/ecg-ptb-xl.git
+[submodule "repo/ecg-ptb-xl"]
+	path = repo/ecg-ptb-xl
+	url = git@github.com:AlexTran1703/ecg-ptb-xl.git
